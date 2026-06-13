@@ -1,6 +1,6 @@
 # Kartu Profil MABA 2026
 
-Halo, ini adalah repository untuk tugas Kartu Profil MABA (Mahasiswa Baru) 2026. Tugas ini juga sengaja saya siapkan sekalian untuk submission Hackathon.
+Halo, ini adalah repository untuk tugas Kartu Profil MABA (Mahasiswa Baru) 2026.
 
 Secara garis besar, tugas ini berisi ID card digital interaktif dengan gaya 3D glassmorphism. Kalau kartunya disorot mouse, bakal muncul efek kilauan hologram yang ngikutin kursor. Kalau diklik, kartunya bisa nge-flip buat nampilin data detail seperti nama lengkap, NRP, dan nama gugus.
 
